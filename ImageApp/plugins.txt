@@ -1,0 +1,11 @@
+npm i @ionic-native/camera@latest
+npm i @ionic-native/file@latest
+npm i @ionic-native/ionic-webview@latest
+npm i @ionic-native/file-path@latest
+npm i @ionic/storage
+
+ionic cordova plugin add cordova-plugin-camera
+ionic cordova plugin add cordova-plugin-file
+ionic cordova plugin add cordova-plugin-ionic-webview
+ionic cordova plugin add cordova-plugin-filepath
+cordova plugin add cordova-sqlite-storage
